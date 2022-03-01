@@ -22,12 +22,6 @@ I am also a YouTube content creator
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=alvianfirdaus&show_icons=true&locale=en" alt="alvianfirdaus" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alvianfirdaus&show_icons=true&locale=en&layout=compact" alt="alvianfirdaus" /></p>
 
-<!---
-izamulfikri/izamulfikri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-
 
 
 <!--
