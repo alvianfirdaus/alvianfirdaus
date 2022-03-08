@@ -1,19 +1,23 @@
 <h2 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px">, I'm Alvian Nur Firdaus!</h2>
 
 ### About me
-- I’m currently learning **Java, HTML, CSS, JS, And Others | Still Beginner btw :D**
-- Language and tool :
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
+Selamat Datang di github saya, disini saya masih belajar tentang informatika di Politeknik negri malang, anda juga bisa mengunduh repositori yang kami buat, saya masih mempelajari beberap bahasa pemrograman dan tool kit yang saya gunakan sebagai berikut :  
+- Language<p>
 ![Java](https://img.shields.io/badge/-java-3f4441?style=plastic&logo=java)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=plastic&logo=bootstrap)
-![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
+![HTML](https://img.shields.io/badge/-HTML-3f4441?style=plastic&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-3f4441?style=plastic&logo=css3)
+
+- Tool<p>
+![Java jdk](https://img.shields.io/badge/-jdk11-blue?style=plastic&logo=java)
+![Neatbeans12](https://img.shields.io/badge/-ApacheNetbeans12-blue?style=plastic&logo=apache)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
+![Git](https://img.shields.io/badge/-Git-blue?style=plastic&logo=git)
 
-<p align="left"> <a href="https://www.linkedin.com/in/alvian-nur-firdaus-8108a1223" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alvianfirdaus" /></a> </p>
-
-<p align="left"> <a href="https://www.instagram.com/alvian7968/" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="alvianfirdaus" /></a> </p>
+- My Social Media<p>
+<a href="https://www.linkedin.com/in/alvian-nur-firdaus-8108a1223" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alvianfirdaus" />
+<a href="https://www.instagram.com/alvian7968/" target="blank"><img src="https://img.shields.io/badge/Youtube-E4405F?style=for-the-badge&logo=Youtube&logoColor=white" alt="alvianfirdaus" /></a> 
+<a href="https://www.instagram.com/alvian7968/" target="blank"><img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="alvianfirdaus" /></a>
+<a href="https://www.instagram.com/alvian7968/" target="blank"><img src="https://img.shields.io/badge/facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="alvianfirdaus" /></a> 
 
 ## Others
 I am also a YouTube content creator
