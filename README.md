@@ -17,7 +17,8 @@ Selamat Datang di github saya, disini saya masih belajar tentang informatika di 
 <a href="https://www.linkedin.com/in/alvian-nur-firdaus-8108a1223" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alvianfirdaus" />
 <a href="https://www.instagram.com/alvian7968/" target="blank"><img src="https://img.shields.io/badge/Youtube-E4405F?style=for-the-badge&logo=Youtube&logoColor=white" alt="alvianfirdaus" /></a> 
 <a href="https://www.instagram.com/alvian7968/" target="blank"><img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="alvianfirdaus" /></a>
-<a href="https://www.instagram.com/alvian7968/" target="blank"><img src="https://img.shields.io/badge/facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="alvianfirdaus" /></a> 
+<a href="https://www.instagram.com/alvian7968/" target="blank"><img src="https://img.shields.io/badge/facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="alvianfirdaus" /></a>
+<a href="https://www.instagram.com/alvian7968/" target="blank"><img src="https://img.shields.io/badge/LINE-blue?style=for-the-badge&logo=line&logoColor=white" alt="alvianfirdaus" /></a> 
 
 ## Others
 I am also a YouTube content creator
