@@ -29,9 +29,9 @@ I am also a YouTube content creator
 
   <br/>
 <p align="left">
-  <a href="https://judhacdc.dev/">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=judhacdc&show_icons=true&theme=omni&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=judhacdc&theme=omni&hide_border=true" />
+  <a href="https://alvianfirdaus.dev/">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=alvianfirdaus&show_icons=true&theme=omni&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=alvianfirdaus&theme=omni&hide_border=true" />
   </a>
 </p>
 <br>
