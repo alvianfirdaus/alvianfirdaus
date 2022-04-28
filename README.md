@@ -27,6 +27,14 @@ I am also a YouTube content creator
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=alvianfirdaus&show_icons=true&locale=en" alt="alvianfirdaus" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alvianfirdaus&show_icons=true&locale=en&layout=compact" alt="alvianfirdaus" /></p>
 
+  <br/>
+<p align="left">
+  <a href="https://judhacdc.dev/">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=judhacdc&show_icons=true&theme=omni&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=judhacdc&theme=omni&hide_border=true" />
+  </a>
+</p>
+<br>
 
 
 <!--
