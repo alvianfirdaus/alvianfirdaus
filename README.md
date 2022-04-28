@@ -24,6 +24,7 @@ Selamat Datang di github saya, disini saya masih belajar tentang informatika di 
 I am also a YouTube content creator
 
 ## My Github Stats :
+    <a href="https://alvianfirdaus.dev/">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=alvianfirdaus&show_icons=true&locale=en" alt="alvianfirdaus" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alvianfirdaus&show_icons=true&locale=en&layout=compact" alt="alvianfirdaus" /></p>
 
